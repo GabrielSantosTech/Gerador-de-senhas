@@ -1,4 +1,4 @@
-##Secure Password Generator (Gerador de Senhas Seguras)
+## Secure Password Generator (Gerador de Senhas Seguras)
 Este é um utilitário de linha de comando escrito em Python que permite gerar senhas fortes e criar hashes criptográficos seguros (SHA-256 com Salt). O projeto foca em segurança utilizando a biblioteca secrets do Python, ideal para fins de criptografia.
 
 ## Funcionalidades
